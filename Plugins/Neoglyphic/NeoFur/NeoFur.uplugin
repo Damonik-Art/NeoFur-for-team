@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NeoFur",
+	"Description": "This plugin allows users to easily simulate incredible fur on objects and characters in realtime.",
+	"CreatedBy": "Neoglyphic Entertainment",
+	"CreatedByURL": "http://www.neoglyphic.com/neofur/",
+	"DocsURL": "https://neofur.torchpad.com/",
+	"MarketplaceURL": "",
+	"SupportURL": "neofur.support@neoglyphic.com",
+	"Modules": [
+		{
+			"Name": "NeoFur",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "NeoFurEditor",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": true,
+	"IsBetaVersion": false,
+    "Category" : "Neoglyphic",
+	"Installed": false
+}
