@@ -12,7 +12,8 @@ Create a "Plugins" folder in your UE4 Project and copy the "Neoglyphic" director
 #### Secondary Actions
 The NeoFur plugin will be enabled by default.  Additionally when opening your project the first time, our custom .usf shader files will be copied and placed in the proper relative directory. You may receive a dialog asking your approval for this step.
 
-There is a very small amount of base content you can copy out of 
+#### Optional Actions
+There is a very small amount of base content you can optionally use instead of the demo project.  Find and copy this out of:
 ```
 	YourProject/Plugins/Neoglyphic/NeoFur/Content/
 ```
