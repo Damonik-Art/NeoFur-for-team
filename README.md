@@ -19,7 +19,7 @@ There is a very small amount of base content you can optionally use instead of t
 ```
 and into your own content directory, if you so desire.  this provides the master material template and a handful of other assets.  The majority of the test assets can be found in our Demo project, downloaded separately.
 
-see https://neofur.torchpad.com/ for more detailed documentation.
+see http://wiki.neoglyphic.com/ for more detailed documentation.
 
 
 # Attributions
